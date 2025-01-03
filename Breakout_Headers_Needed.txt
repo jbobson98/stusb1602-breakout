@@ -1,0 +1,24 @@
+Header For:
+
+MISO
+MOSI
+NSS
+SCLK
+
+X_EN
+SDA
+SCL
+ALERT#
+
+RESET
+AB_SIDE
+ADDR0
+GND
+
+3V3
+5V
+VBUS
+BATTERY_CHARGER OUT
+
+
+A bunch of connectors for the type c data lines
