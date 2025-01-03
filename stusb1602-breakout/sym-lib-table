@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "STUSB1602AQTR")(type "KiCad")(uri "${KIPRJMOD}/../kicad-libraries/symbols/STUSB1602AQTR.kicad_sym")(options "")(descr ""))
+)
